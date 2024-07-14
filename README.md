@@ -50,7 +50,7 @@ streamlit run src/thesis2024/models/chatbot_v1.py
 
 
 ## Project structure
-The directory structure of the project looks like this:
+The directory structure of the project looks like this: 
 
 ```txt
 
